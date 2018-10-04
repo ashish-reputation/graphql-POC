@@ -19,8 +19,8 @@ Steps:
     "now listening for requests on port 2020...
      connected to database..."
 ```     
-5. Go to browser and type this url - "http://localhost:2020/graphql"
-6. Execute a test query in the graphql UI, example: - 
+5. Go to this url - "http://localhost:2020/graphql"
+6. Execute a test query in the graphql UI (GraphiQL), for example: - 
      
 ```
       {
