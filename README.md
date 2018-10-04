@@ -2,7 +2,7 @@
 A POC on graphql usage with server-side design using node and express.
 
 ### Prerequisites
-You need to install node and npm.
+You need to install node and npm - "https://nodejs.org/en/download"
 
 Steps:
 1. Clone the repository.
